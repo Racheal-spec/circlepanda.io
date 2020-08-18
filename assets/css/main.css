@@ -278,6 +278,10 @@ body, html { background-color: var(--light); position: relative; }
 .container {
     padding: 15px 30px;
 }
+p, h1, h2, h3, h4, h5, h6, strong {
+    color: var(--text-dark);
+    font-family: 'Brandon Regular';
+}
 span.top__message { 
 	display: block;
 	height: 40px;
@@ -295,6 +299,21 @@ img.logo{ width: 200px; }
 .padd-120 { padding: 120px 0; }
 .padd-160 { padding: 160px 0; }
 .padd-200 { padding: 200px 0; }
+.title-h3 {
+    color: var(--text-dark);
+    font-family: 'Sweet Sans Pro Bold';
+}
+.font-12 { font-size: 12px }
+.font-13 { font-size: 13px }
+.font-14 { font-size: 14px }
+.font-16 { font-size: 16px }
+.font-20 { font-size: 20px }
+.font-24 { font-size: 24px }
+.font-30 { font-size: 30px }
+.font-42 { font-size: 42px }
+.font-50 { font-size: 50px }
+.font-72 { font-size: 72px }
+.font-100 { font-size: 100px }
 
 /* === Banner Section === */
 
@@ -373,3 +392,15 @@ div.card-box.shadow { box-shadow: 0 0 11px #eaf0f6; }
     align-items: center;
     color: var(--text-dark);
 }
+
+/* === Partners Section === */
+
+section.partners {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    min-height: 200px;
+    background-color: var(--light);
+    position: relative;
+}
+img.partners { width: 150px; margin-top: 30px; }
