@@ -404,3 +404,10 @@ section.partners {
     position: relative;
 }
 img.partners { width: 150px; margin-top: 30px; }
+
+/* === Testimonials Section === */
+section .testimonials-text{
+    align-self: center;
+    justify-self: center;
+}
+.testimonials img{max-width: 100%; margin-bottom: 50px;}
