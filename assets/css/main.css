@@ -1,3 +1,228 @@
+/* #### SweetSansPro---*** #### */
+
+@font-face {
+    font-family: 'Sweet Sans Pro Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Regular'), url('../fonts/SweetSansProRegular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Italic'), url('../fonts/SweetSansProItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Hairline';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Hairline'), url('../fonts/SweetSansProHairline.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Hairline Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Hairline Italic'), url('../fonts/SweetSansProHairlineItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Extra Thin';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Extra Thin'), url('../fonts/SweetSansProExThin.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Extra Thin Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Extra Thin Italic'), url('../fonts/SweetSansProExThinItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Thin';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Thin'), url('../fonts/SweetSansProThin.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Thin Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Thin Italic'), url('../fonts/SweetSansProThinItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Extra Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Extra Light'), url('../fonts/SweetSansProExLight.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Extra Light Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Extra Light Italic'), url('../fonts/SweetSansProExLightItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Light'), url('../fonts/SweetSansProLight.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Light Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Light Italic'), url('../fonts/SweetSansProLightItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Medium'), url('../fonts/SweetSansProMedium.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Medium Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Medium Italic'), url('../fonts/SweetSansProMediumItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Bold'), url('../fonts/SweetSansProBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Bold Italic'), url('../fonts/SweetSansProBoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Heavy';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Heavy'), url('../fonts/SweetSansProHeavy.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sweet Sans Pro Heavy Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sweet Sans Pro Heavy Italic'), url('../fonts/SweetSansProHeavyItalic.woff') format('woff');
+}
+
+/* #### AvenirNextLTPro---*** #### */
+
+@font-face {
+    font-family: 'Avenir Next LTPro Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Avenir Next LTPro Bold'), url('../fonts/AvenirNextLTPro-Bold.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Avenir Next LTPro BoldCn';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Avenir Next LTPro BoldCn'), url('../fonts/AvenirNextLTPro-BoldCn.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Avenir Next LTPro Demi';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Avenir Next LTPro Demi'), url('../fonts/AvenirNextLTPro-Demi.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Avenir Next LTPro DemiCn';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Avenir Next LTPro DemiCn'), url('../fonts/AvenirNextLTPro-DemiCn.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Avenir Next LTPro Italics';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Avenir Next LTPro Italics'), url('../fonts/AvenirNextLTPro-It.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Avenir Next LTPro Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Avenir Next LTPro Regular'), url('../fonts/AvenirNextLTPro-Regular.otf') format('opentype');
+}
+
+/* #### Brandon---*** #### */
+
+@font-face {
+    font-family: 'Brandon Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Brandon Bold'), url('../fonts/Brandon_bld.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Brandon Bold Italics';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Brandon Bold Italics'), url('../fonts/Brandon_bld_it.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Brandon Black';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Brandon Black'), url('../fonts/Brandon_blk.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Brandon Black Italics';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Brandon Black Italics'), url('../fonts/Brandon_blk_it.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Brandon Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Brandon Light'), url('../fonts/Brandon_light.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Brandon Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Brandon Light Italics'), url('../fonts/Brandon_light_it.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Brandon Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Brandon Medium'), url('../fonts/Brandon_med.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Brandon Medium Italics';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Brandon Medium Italics'), url('../fonts/Brandon_med_it.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Brandon Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Brandon Regular'), url('../fonts/Brandon_reg.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Brandon Regular Italics';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Brandon Regular Italics'), url('../fonts/Brandon_reg_it.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Brandon Thin';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Brandon Thin'), url('../fonts/Brandon_thin.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Brandon Thin Italics';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Brandon Thin Italics'), url('../fonts/Brandon_thin_it.otf') format('opentype');
+}
+
 :root {
     --blue: #047bf8;
     --indigo: #6610f2;
@@ -9,7 +234,7 @@
     --green: #24b314;
     --teal: #20c997;
     --cyan: #5bc0de;
-    --white: #fff;
+    --white: #ffffff;
     --gray: #636c72;
     --gray-dark: #343a40;
     --primary: #047bf8;
@@ -18,9 +243,10 @@
     --info: #5bc0de;
     --warning: #fbe4a0;
     --danger: #e65252;
-    --light: #f8f9fa;
+    --light: #F5F8FA;
     --dark: #343a40;
     --background: #05142E;
+    --text-dark: #172B4D;
     --banner: #172B4D;
     --breakpoint-xs: 0;
     --breakpoint-sm: 576px;
@@ -37,6 +263,8 @@
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
+
+/* ====== Body Style ====== */
 html {
 	margin: 0 auto;
     font-family: sans-serif;
@@ -46,7 +274,10 @@ html {
     -ms-overflow-style: scrollbar;
     -webkit-tap-highlight-color: transparent;
 }
-body, html { background-color: #F8F9FF; position: relative; }
+body, html { background-color: var(--light); position: relative; }
+.container {
+    padding: 15px 30px;
+}
 span.top__message { 
 	display: block;
 	height: 40px;
@@ -56,65 +287,89 @@ span.top__message {
 	text-align: center;
 	background-color: var(--background);
 	color: var(--white);
+    font-family: 'Brandon Regular';
 }
+img.logo{ width: 200px; }
+.padd-40 { padding: 40px 0; }
+.padd-80 { padding: 80px 0; }
+.padd-120 { padding: 120px 0; }
+.padd-160 { padding: 160px 0; }
+.padd-200 { padding: 200px 0; }
+
+/* === Banner Section === */
+
 section.banner {
 	display: inline-block;
 	width: 100%;
-	height: 90vh;
+	height: 68vh;
     background-color: var(--banner);
     position: relative;
 }
-.logo img{ width: 200px; }
-.navbar ul{
+header {
+    height: auto;
+    min-height: 50px;
+    width: 100%;
+    display: table-cell;
+    vertical-align: middle;
+}
+header.color1 { background-color: var(--banner) }
+header.color2 { background-color: var(--white) }
+header.color3 { background-color: transparent; }
+ul.navlink {
+    float: right;
+    display: inline-table;
+}
+ul.navlink li {
+    display: inline-table;
     list-style: none;
-    display: flex; 
-    align-items: center; 
-    padding: 0 80px;
+    padding-right: 30px;
+    font-size: 18px;
+    font-family: 'Brandon Bold';
 }
-.navbar .menu{
- font-size: 18px;
- font-weight: bold;
- color: white;
- margin: 0 50px;
-}
-.navbar .menu:hover{color: gray;}
-.bannertext{
-    width: 60%;
-    line-height: 4;
-    padding: 50px 80px;
+ul.navlink.white li a { color: var(--white) }
+ul.navlink.not-white li a { color: var(--banner) }
+.showbox {
     position: absolute;
-    top: 20%;
+    display: table;
+    height: auto;
+    min-height: 150px;
+    width: 80%;
+    margin: 0 10%;
+    bottom: -70px;
+    border-radius: 4px;
+    padding: 0px 30px;
+    z-index: 5;
+    box-shadow: 0px 10px 14px 0px rgba(23,43,77,0.2);
+    background-color: var(--light);
 }
-.bannertext p{
-    line-height: 2;
-    color: white;
-    font-weight: 500;
-    font-size: 19px;
-    letter-spacing: .5px;
-}
-.banner-btn{
-    width: 20%;
-    color: white;
-    padding: 12px 35px;
-    font-weight: 900;
-    border-radius: 5px;
-    background-color: var(--blue);  
-}
-.banner-overlay{
-    width: 88%;
-    background-color: plum;/*this colour isn't available in root, had to use something that matches the design*/
-    padding: 40px;
-    position: absolute;
-    top: 80%;
-    left: 6%;
-    border-radius: 12px;
-    text-align: center;
-}
-.banner-overlay p{
-  font-size: 18px;
-  letter-spacing: .5px;
-}
-.products{
+
+/* === Product Section === */
+
+section.product {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    min-height: 500px;
     background-color: var(--white);
-    height: 70vh;
+    position: relative; 
+}
+div.card-box {
+    display: inline-block;
+    height: auto;
+    min-height: 380px;
+    width: 90%;
+    margin: 5%;
+    padding: 2rem;
+    border-radius: .1875rem;
+    transition: .3s ease-in-out;
+    background-color: var(--white);
+}
+div.card-box.shadow { box-shadow: 0 0 11px #eaf0f6; }
+.card-box-intitle {
+    font-family: 'Sweet Sans Pro Bold';
+    display: flex;
+    vertical-align: middle;
+    justify-content: center;
+    align-items: center;
+    color: var(--text-dark);
 }
